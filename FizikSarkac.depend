@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1483274727 source:c:\users\bilgehan-sony\desktop\fiziksarkac\main.cpp
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+	<process.h>
+
+1483354940 source:c:\users\gulni\desktop\fiziksarkac\fiziksarkac\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<graphics.h>
+
